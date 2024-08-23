@@ -6,6 +6,7 @@ public class ContaTerminal {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Wold!!");
+		System.out.println("Hello Wold!!");
 
 	}
 
